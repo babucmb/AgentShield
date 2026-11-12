@@ -150,3 +150,15 @@ The frontend never decides the final amount and never calls PayPal with secrets.
 10. Repeat with the wired keyboard or premium keyboard and show `BLOCK`.
 
 See the full [demo script](docs/demo/DEMO_SCRIPT.md) and [GitHub package checklist](docs/demo/GITHUB_PACKAGE.md).
+
+## Demo screenshots
+
+### AgentShield purchase guardrail
+
+![AgentShield purchase guardrail showing the natural-language purchase request and demo catalogue](<Screenshot 2026-11-11 125300.png>)
+
+### Policy evaluation and approval decision
+
+![AgentShield policy evaluation showing the deterministic decision and approval workflow](<Screenshot 2026-11-11 125314.png>)
+
+The images are stored in the repository root next to this README. Keep the filenames unchanged when uploading them to GitHub so these relative image links continue to render.
